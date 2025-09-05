@@ -29,4 +29,4 @@ Teknologi yang digunakan
 1 Flutter SDK (Framework untuk membuat aplikasi mobile)
 2 Material Design (Komponen UI bawaan Flutter)
 3 State Management menggunakan setState
->>>>>>> 7d4bf3e30c161c0472651177e05a30acefefc36a
+ 
